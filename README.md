@@ -81,9 +81,5 @@ All queries were built in GoogleSQL within BigQuery to power downstream tools:
 ---
 
 ## 🔗 Live Deliverables
-
+* **Google Slides Presentation:** [View Executive Deck](https://docs.google.com/presentation/d/1g33P5iYJaD512jKA_yyLnrWuRwKi1lo3DWW3n0U1tP0/edit?usp=sharing)
 * **Google Sheets Connected Master Dataset:** [View Connected Sheet](https://docs.google.com/spreadsheets/d/14I-wuXAWBcSyBKDccp7QSdfG7IuBLNDmz6EDYcR9Ilo/edit?gid=1578801980#gid=1578801980)
-
-```
-
-```
